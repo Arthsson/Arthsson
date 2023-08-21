@@ -17,7 +17,9 @@
     [![GitHub](https://img.shields.io/badge/GitHub-003?style=for-the-badge&logo=github)](https://docs.github.com/)
     [![Git](https://img.shields.io/badge/Git-003?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc)
     [![Flutter](https://img.shields.io/badge/Flutter-003?style=for-the-badge&logo=flutter&logoColor=fff)](https://git-scm.com/doc)
+    [![Dart](https://img.shields.io/badge/Dart-003?style=for-the-badge&logo=dart&logoColor=fff)](https://git-scm.com/doc)
     [![Python](https://img.shields.io/badge/Python-003?style=for-the-badge&logo=python&logoColor=fff)](https://git-scm.com/doc)
+    [![VSCode](https://img.shields.io/badge/VsCode-003?style=for-the-badge&logo=vscode&logoColor=fff)](https://git-scm.com/doc)
     </details>
     <details>
     <summary>📚🌱 Outras conhecimentos, sempre aprendendo!</summary>
@@ -30,7 +32,10 @@
     </details>
     <details>
     <summary>📊 Estatísticas do GitHub</summary>
-    <p>Aqui você encontrará estatísticas interessantes do meu perfil no GitHub!</p>
+    <p>
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthsson&theme=transparent&bg_color=003&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)
+    ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthsson&layout=compact&bg_color=003&border_color=fff&title_color=fff&text_color=FFF)
+    </p>
     </details>
     <details>
     <summary>🚫 Não Abra!</summary>
@@ -43,18 +48,5 @@
 !</pre>
     </details>
 
-
-<!--
-**Arthsson/Arthsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-003?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)

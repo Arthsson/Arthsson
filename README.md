@@ -1,6 +1,6 @@
 ![GIF Bruno](assets/bruno.gif)
 
-👾  **Sobre mim**<br>
+👾  ## Sobre mim ##<br>
    🧑‍💻  Atualmente participando de um projeto mobile para cadastro de agricultores 🌾 da região, em parceria com a UFRPE 🎓 e PMST 🏙️<br>
    🎓  Aluno do curso de Bacharelado em Sistema de Informação na UFRPE-UAST 👨‍🎓<br>
    🔭  Apaixonado por desafios tecnológicos 🚀<br>
@@ -12,31 +12,29 @@
 
    []()
     <details>
-    <summary>🧠  Outras conhecimentos, sempre aprendendo</summary>
+    <summary>💻 Principal domínio tecnológico</summary>
     <p>Aqui estão outras áreas em que estou sempre buscando conhecimento!</p>
     </details>
     <details>
-    <summary>🧠  Outras conhecimentos, sempre aprendendo</summary>
+    <summary>📚🌱 Outras conhecimentos, sempre aprendendo!</summary>
     <p>Aqui estão outras áreas em que estou sempre buscando conhecimento!</p>
     </details>
     <details>
-    <summary>⚙️  Estatísticas do GitHub</summary>
+    <summary>📊 Estatísticas do GitHub</summary>
     <p>Aqui você encontrará estatísticas interessantes do meu perfil no GitHub!</p>
     </details>
     <details>
-    <summary>⚙️  Estatísticas do GitHub</summary>
-    <pre>   / \__<br>
-       (    @\___<br>
-       /         O<br>
-      /   (_____/<br>
-     /_____/   ʕ•ᴥ•ʔ<br>
-  Ei, eu disse para não abrir!<br>
-   Mas já que está aqui, quer ouvir uma piada?<br>
-   <br>
-   Por que a ULA se sentiu mal depois de um longo dia de trabalho?<br>
-   Porque tinha muitos cálculos e precisava de um "bit" de descanso!<br>
-   <br>
-   ʕ•ᴥ•ʔ  Woof! Gostou da piada?<br>
+    <summary>🚫 Não Abra!</summary>
+    <pre>/ \__
+       (    @\___
+       /         O
+      /   (_____/
+     /_____/   ʕ•ᴥ•ʔ
+  Ei, eu disse para não abrir!
+   Mas já que está aqui, quer ouvir uma piada?
+   Por que a ULA se sentiu mal depois de um longo dia de trabalho?
+   Porque tinha muitos cálculos e precisava de um "bit" de descanso!
+   ʕ•ᴥ•ʔ  Woof! Gostou da piada?
 !</pre>
     </details>
 

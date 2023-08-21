@@ -19,7 +19,7 @@
     [![Flutter](https://img.shields.io/badge/Flutter-003?style=for-the-badge&logo=flutter&logoColor=fff)](https://git-scm.com/doc)
     [![Dart](https://img.shields.io/badge/Dart-003?style=for-the-badge&logo=dart&logoColor=fff)](https://git-scm.com/doc)
     [![Python](https://img.shields.io/badge/Python-003?style=for-the-badge&logo=python&logoColor=fff)](https://git-scm.com/doc)
-    [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-003?style=for-the-badge&logo=VsCode&logoColor=fff)](https://git-scm.com/doc)
+    [![VSCode](https://img.shields.io/badge/VsCode-003?style=for-the-badge&logo=visual-studio-code&logoColor=fff)](https://git-scm.com/doc)
     </details>
     <details>
     <summary>📚🌱 Outras conhecimentos, sempre aprendendo!</summary>
@@ -51,5 +51,5 @@
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-003?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)
 [![instagram](https://img.shields.io/badge/Instagram-003?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)
-[![Gmail](https://img.shields.io/badge/Gmail-003?style=for-the-badge&logo=gmaail&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)
+[![Gmail](https://img.shields.io/badge/Gmail-003?style=for-the-badge&logo=gmail&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)
 [![Discord](https://img.shields.io/badge/Discord-003?style=for-the-badge&logo=discord&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)

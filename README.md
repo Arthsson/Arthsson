@@ -26,10 +26,10 @@
     <details>
     <summary>⚙️  Estatísticas do GitHub</summary>
     <p>   / \__<br>
-  (    @\___<br>
-  /         O<br>
- /   (_____/<br>
-/_____/   ʕ•ᴥ•ʔ<br>
+       (    @\___<br>
+       /         O<br>
+      /   (_____/<br>
+     /_____/   ʕ•ᴥ•ʔ<br>
   Ei, eu disse para não abrir!<br>
    Mas já que está aqui, quer ouvir uma piada?<br>
    <br>

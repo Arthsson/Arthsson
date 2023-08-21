@@ -25,7 +25,7 @@
     </details>
     <details>
     <summary>⚙️  Estatísticas do GitHub</summary>
-    <p>   / \__<br>
+    <pre>   / \__<br>
        (    @\___<br>
        /         O<br>
       /   (_____/<br>
@@ -37,7 +37,7 @@
    Porque tinha muitos cálculos e precisava de um "bit" de descanso!<br>
    <br>
    ʕ•ᴥ•ʔ  Woof! Gostou da piada?<br>
-!</p>
+!</pre>
     </details>
 
 

@@ -1,6 +1,6 @@
 ![GIF Bruno](assets/bruno.gif)
 
-👾  ## Sobre mim ##<br>
+**👾 Sobre mim ** <br>
    🧑‍💻  Atualmente participando de um projeto mobile para cadastro de agricultores 🌾 da região, em parceria com a UFRPE 🎓 e PMST 🏙️<br>
    🎓  Aluno do curso de Bacharelado em Sistema de Informação na UFRPE-UAST 👨‍🎓<br>
    🔭  Apaixonado por desafios tecnológicos 🚀<br>
@@ -13,11 +13,19 @@
    []()
     <details>
     <summary>💻 Principal domínio tecnológico</summary>
-    <p>Aqui estão outras áreas em que estou sempre buscando conhecimento!</p>
+    [![GitHub](https://img.shields.io/badge/GitHub-003?style=for-the-badge&logo=github)](https://docs.github.com/)
+    [![Git](https://img.shields.io/badge/Git-003?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc)
+    [![Flutter](https://img.shields.io/badge/Flutter-003?style=for-the-badge&logo=flutter&logoColor=fff)](https://git-scm.com/doc)
+    [![Python](https://img.shields.io/badge/Python-003?style=for-the-badge&logo=python&logoColor=fff)](https://git-scm.com/doc)
     </details>
     <details>
     <summary>📚🌱 Outras conhecimentos, sempre aprendendo!</summary>
-    <p>Aqui estão outras áreas em que estou sempre buscando conhecimento!</p>
+    <p>
+    [![GitHub](https://img.shields.io/badge/GitHub-003?style=for-the-badge&logo=github)](https://docs.github.com/)
+    [![Git](https://img.shields.io/badge/Git-003?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc)
+    [![Flutter](https://img.shields.io/badge/Flutter-003?style=for-the-badge&logo=flutter&logoColor=fff)](https://git-scm.com/doc)
+    [![Python](https://img.shields.io/badge/Python-003?style=for-the-badge&logo=python&logoColor=fff)](https://git-scm.com/doc)
+    </p>
     </details>
     <details>
     <summary>📊 Estatísticas do GitHub</summary>
@@ -25,16 +33,12 @@
     </details>
     <details>
     <summary>🚫 Não Abra!</summary>
-    <pre>/ \__
-       (    @\___
-       /         O
-      /   (_____/
-     /_____/   ʕ•ᴥ•ʔ
+    <pre>
   Ei, eu disse para não abrir!
    Mas já que está aqui, quer ouvir uma piada?
    Por que a ULA se sentiu mal depois de um longo dia de trabalho?
    Porque tinha muitos cálculos e precisava de um "bit" de descanso!
-   ʕ•ᴥ•ʔ  Woof! Gostou da piada?
+ Gostou da piada?
 !</pre>
     </details>
 

@@ -43,7 +43,7 @@
   Ei, eu disse para não abrir!
    Mas já que está aqui, quer ouvir uma piada?
    Por que a ULA se sentiu mal depois de um longo dia de trabalho?
-   Porque tinha muitos cálculos e precisava de um "bit" de descanso!
+   Porque tinha feito muitos cálculos e precisava de um "bit" de descanso!
  Gostou da piada?
 !</pre>
     </details>

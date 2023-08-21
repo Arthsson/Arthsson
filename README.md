@@ -21,7 +21,7 @@
     [![Python](https://img.shields.io/badge/Python-003?style=for-the-badge&logo=python&logoColor=fff)](https://git-scm.com/doc)
     [![VSCode](https://img.shields.io/badge/VsCode-003?style=for-the-badge&logo=visual-studio-code&logoColor=fff)](https://git-scm.com/doc)
     ![Arduino](https://img.shields.io/badge/-Arduino-003?style=for-the-badge&logo=Arduino&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/firebase-003?style=for-the-badge&logo=firebase)
+    ![Firebase](https://img.shields.io/badge/firebase-003?style=for-the-badge&logo=firebase&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-003?style=for-the-badge&logo=figma&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-003?style=for-the-badge&logo=Canva&logoColor=white)
     </details>
@@ -35,7 +35,7 @@
     ![Docker](https://img.shields.io/badge/Docker-003?style=for-the-badge&logo=docker&logoColor=white)
     ![Swift](https://img.shields.io/badge/swift-003?style=for-the-badge&logo=swift&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-003?style=for-the-badge&logo=kotlin&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-003?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![JavaScript](https://img.shields.io/badge/javascript-003?style=for-the-badge&logo=javascript&logoColor=white)
     </p>
     </details>
     <details>

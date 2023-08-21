@@ -4,11 +4,11 @@
 # 👾 Sobre mim  <br>
    🧑‍💻  Atualmente participando de um projeto mobile para cadastro de agricultores 🌾 da região, em parceria com a UFRPE 🎓 e PMST 🏙️<br>
    🎓  Aluno do curso de Bacharelado em Sistema de Informação na UFRPE-UAST 👨‍🎓<br>
-   🔭  Apaixonado por desafios tecnológicos 🚀<br>
-   🤔  Entusiasta por solução de problemas 🧩<br>
-   ✍️  Pesquisando sobre geotecnologia 🌍, I.A 🤖, Flutter 📱 e Python 🐍<br>
+   🌟  Apaixonado por desafios tecnológicos 🚀<br>
+   😄  Entusiasta por solução de problemas 🧩<br>
+   📚  Pesquisando sobre geotecnologia 🌍, I.A 🤖, Flutter 📱 e Python 🐍<br>
    🛠️  Programando desde 2012 ⏰<br>
-   👨‍👩‍👧‍👧  Morando no Brasil com minha amada esposa 💕<br>
+   🏡  Morando no Brasil 🏔️ com minha amada esposa 💕<br>
    🎮  Aficionado por games! 🎮<br>
 
    []()
@@ -19,7 +19,7 @@
     [![Flutter](https://img.shields.io/badge/Flutter-003?style=for-the-badge&logo=flutter&logoColor=fff)](https://git-scm.com/doc)
     [![Dart](https://img.shields.io/badge/Dart-003?style=for-the-badge&logo=dart&logoColor=fff)](https://git-scm.com/doc)
     [![Python](https://img.shields.io/badge/Python-003?style=for-the-badge&logo=python&logoColor=fff)](https://git-scm.com/doc)
-    [![VSCode](https://img.shields.io/badge/Vscode-003?style=for-the-badge&logo=vscode&logoColor=fff)](https://git-scm.com/doc)
+    [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-003?style=for-the-badge&logo=visual-studio-code&logoColor=fff)](https://git-scm.com/doc)
     </details>
     <details>
     <summary>📚🌱 Outras conhecimentos, sempre aprendendo!</summary>

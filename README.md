@@ -9,7 +9,7 @@
    📚  Pesquisando sobre geotecnologia 🌍, I.A 🤖, Flutter 📱 e Python 🐍<br>
    🛠️  Programando desde 2012 ⏰<br>
    🏡  Morando no Brasil 🏔️ com minha amada esposa 💕<br>
-   🎮  Aficionado por games! 🎮<br>
+   🎮  Aficionado por retro games! 🎮<br>
 
    []()
     <details>

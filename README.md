@@ -1,7 +1,7 @@
 
-[GIF Bruno](assets/bruno.gif)
+![GIF Bruno](assets/bruno.gif)
 
-**👾 Sobre mim ** <br>
+# 👾 Sobre mim  <br>
    🧑‍💻  Atualmente participando de um projeto mobile para cadastro de agricultores 🌾 da região, em parceria com a UFRPE 🎓 e PMST 🏙️<br>
    🎓  Aluno do curso de Bacharelado em Sistema de Informação na UFRPE-UAST 👨‍🎓<br>
    🔭  Apaixonado por desafios tecnológicos 🚀<br>
@@ -11,7 +11,7 @@
    👨‍👩‍👧‍👧  Morando no Brasil com minha amada esposa 💕<br>
    🎮  Aficionado por games! 🎮<br>
 
-  
+   []()
     <details>
     <summary>💻 Principal domínio tecnológico</summary>
     [![GitHub](https://img.shields.io/badge/GitHub-003?style=for-the-badge&logo=github)](https://docs.github.com/)

@@ -28,14 +28,28 @@
     <details>
     <summary>📚🌱 Outras conhecimentos, sempre aprendendo!</summary>
     <p>
-    [![GitHub](https://img.shields.io/badge/GitHub-003?style=for-the-badge&logo=github)](https://docs.github.com/)
-    [![Git](https://img.shields.io/badge/Git-003?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc)
-    [![Flutter](https://img.shields.io/badge/Flutter-003?style=for-the-badge&logo=flutter&logoColor=fff)](https://git-scm.com/doc)
-    [![Python](https://img.shields.io/badge/Python-003?style=for-the-badge&logo=python&logoColor=fff)](https://git-scm.com/doc)
     ![Docker](https://img.shields.io/badge/Docker-003?style=for-the-badge&logo=docker&logoColor=white)
     ![Swift](https://img.shields.io/badge/swift-003?style=for-the-badge&logo=swift&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-003?style=for-the-badge&logo=kotlin&logoColor=white)
+    ![React Native](https://img.shields.io/badge/react_native-003?style=for-the-badge&logo=react&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-003?style=for-the-badge&logo=javascript&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-003?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![C++](https://img.shields.io/badge/c++-003?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![PHP](https://img.shields.io/badge/php-003?style=for-the-badge&logo=php&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/html5-003?style=for-the-badge&logo=html5&logoColor=white)
+    ![Nginx](https://img.shields.io/badge/nginx-003?style=for-the-badge&logo=nginx&logoColor=white)
+    ![Apache](https://img.shields.io/badge/apache-003?style=for-the-badge&logo=apache&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-003?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Angular](https://img.shields.io/badge/angular-003?style=for-the-badge&logo=angular&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/laravel-003?style=for-the-badge&logo=laravel&logoColor=white)
+    ![React](https://img.shields.io/badge/react-003?style=for-the-badge&logo=react&logoColor=white)
+    ![NPM](https://img.shields.io/badge/NPM-003?style=for-the-badge&logo=npm&logoColor=white)
+    ![Django](https://img.shields.io/badge/django-003?style=for-the-badge&logo=django&logoColor=white)
+    ![Next JS](https://img.shields.io/badge/Next-003?style=for-the-badge&logo=next.js&logoColor=white)
+    ![NodeJS](https://img.shields.io/badge/node.js-003?style=for-the-badge&logo=node.js&logoColor=white)
+    ![OpenGL](https://img.shields.io/badge/OpenGL-003?style=for-the-badge&logo=white)
+    ![Gradle](https://img.shields.io/badge/Gradle-003?style=for-the-badge&logo=Gradle&logoColor=white)
+    ![CMake](https://img.shields.io/badge/CMake-003?style=for-the-badge&logo=cmake&logoColor=white)
     </p>
     </details>
     <details>
@@ -58,6 +72,6 @@
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-003?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)
-[![instagram](https://img.shields.io/badge/Instagram-003?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)
-[![Gmail](https://img.shields.io/badge/Gmail-003?style=for-the-badge&logo=gmail&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)
-[![Discord](https://img.shields.io/badge/Discord-003?style=for-the-badge&logo=discord&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)
+[![instagram](https://img.shields.io/badge/Instagram-003?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/b_arthsson/)
+[![Gmail](https://img.shields.io/badge/Gmail-003?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthzzon@gmailcom)
+

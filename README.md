@@ -71,7 +71,7 @@
     </details>
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-003?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson-9aa248175/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-003?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruno-arthsson/)
 [![instagram](https://img.shields.io/badge/Instagram-003?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/b_arthsson/)
 [![Gmail](https://img.shields.io/badge/Gmail-003?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthzzon@gmailcom)
 

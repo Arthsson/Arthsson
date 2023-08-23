@@ -1,5 +1,5 @@
 
-![GIF Bruno](assets/bruno.gif)
+![GIF Bruno](assets/gif.gif)
 
 # 👾 Sobre mim  <br>
    🧑‍💻  Atualmente participando de um projeto mobile para cadastro de agricultores 🌾 da região, em parceria com a UFRPE 🎓 e PMST 🏙️<br>
